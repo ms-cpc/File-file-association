@@ -1,0 +1,1 @@
+incase you've set notepad or something else to open cmd or bat files, run the appropriate reg file to fix.
